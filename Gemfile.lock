@@ -98,7 +98,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.8)
-  wax_theme (~> 0.1.beta)
+  wax_tasks (~> 1.0.beta)
 
 BUNDLED WITH
    1.16.5
